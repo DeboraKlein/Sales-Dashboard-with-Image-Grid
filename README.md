@@ -40,7 +40,7 @@ The decomposition tree makes it easy to identify trends, uncover growth drivers,
 
 ## 🔗 View the Live Dashboard
 
-👉 [Click here to open the interactive version]([INSERT_DASHBOARD_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiZTY3ZDMwMTEtODdmOC00Y2U1LTk5ZjMtZGJmYTY3NDcyZmU5IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9))
+👉 [Click here to open the interactive version]([https://app.powerbi.com/view?r=eyJrIjoiZTY3ZDMwMTEtODdmOC00Y2U1LTk5ZjMtZGJmYTY3NDcyZmU5IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9])
 
 ---
 
