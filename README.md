@@ -33,7 +33,7 @@ The decomposition tree makes it easy to identify trends, uncover growth drivers,
 
 ##  Dashboard Preview
 
-[Dashboard Screenshot](![Sales - Sales Analysis Dashboard by Debora Klein - Power BI - Google Chrome 26_06_2025 19_44_50](https://github.com/user-attachments/assets/28911ae3-7560-4b6d-be92-1465ca53cb9b)
+[Dashboard Screenshot](https://github.com/user-attachments/assets/28911ae3-7560-4b6d-be92-1465ca53cb9b)
 
 
 ---
